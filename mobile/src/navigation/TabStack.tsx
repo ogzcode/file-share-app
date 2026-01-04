@@ -14,7 +14,7 @@ export const TabStack = () => {
         tabBarHideOnKeyboard: true,
         tabBarStyle: {
           borderTopWidth: 1,
-          borderTopColor: "#4B5563"
+          borderTopColor: "#9ca3af"
         },
       }}
     >
